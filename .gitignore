@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+Mask-RCNN-Venv/
+
+*.log
+
+.vscode/
+
+*.local
+*.swp
+
+.env
+
+data/
+
+saved_model.pth
