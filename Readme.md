@@ -3,7 +3,6 @@
 This repository contains code for fine-tuning the Mask R-CNN model for instance segmentation on the NDD20 dataset. It also includes a notebook that explains how to create instance-based masks from annotations in `.json` format.
 
 ![Example Output](mask_RCNN.png)
-
 ![Example Output](mask_Rcnn_mask.png)
 
 
